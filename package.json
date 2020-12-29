@@ -1,0 +1,25 @@
+{
+  "name": "easy-reactstrap-form",
+  "version": "1.0.0",
+  "description": "Simple JSON form components with reactstrap",
+  "main": "EasyForm.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marlond25/easy-reactstrap-form.git"
+  },
+  "keywords": [
+    "react",
+    "reactstrap",
+    "form",
+    "easy"
+  ],
+  "author": "https://github.com/Marlond25",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Marlond25/easy-reactstrap-form/issues"
+  },
+  "homepage": "https://github.com/Marlond25/easy-reactstrap-form#readme"
+}
