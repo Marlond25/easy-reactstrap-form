@@ -2,13 +2,13 @@
 
 ## INSTALATION
 
-npm i ezform
+npm i easy-reactstrap-form
 
 ## USE
 
 ### In your wrapping component, import the ezform component:
 
-import Ezform from 'Ezform.js'
+import EasyForm from 'EasyForm.js'
 
 ## STATE
 
@@ -60,4 +60,4 @@ const fields = [
 
 ### Implement the component as follows:
 
-<EzForm id="form1" fields={fields} set={selectSet} />
+"<EasyForm id="form1" fields={fields} set={selectSet} />"

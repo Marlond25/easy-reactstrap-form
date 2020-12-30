@@ -1,7 +1,7 @@
 import React from 'react';
 import { Input, Label, Button, Form, FormGroup } from 'reactstrap';
 
-function EzForm({id, fields, set}) {
+function EasyForm({id, fields, set}) {
   let key = 0;
 
   const setFormData = set[id];
@@ -47,4 +47,4 @@ function EzForm({id, fields, set}) {
   );
 }
 
-export default EzForm;
+export default EasyForm;
